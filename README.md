@@ -8,5 +8,5 @@ https://github.com/mrcrookes/datagtcs/
 Link to FOI request:<br />
 https://www.whatdotheyknow.com/request/register_of_teachers_current_reg_2
 
-Spreadsheets of output data:<br />
-https://docs.google.com/spreadsheets/d/1pueT4JTszKb2svE3M_vHZxPCoXGy_DuwLrG64TXvOBM/edit?gid=358344622#gid=358344622
+Google drive working folder:<br />
+https://drive.google.com/drive/folders/1ir2M-IAGSLkHLX81q0YqdvIBjWoZSvGc
